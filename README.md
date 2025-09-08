@@ -8,7 +8,7 @@ This repository contains the files and a detailed breakdown of the Coffee House 
 
 Below is a short demonstration of the dashboard's interactivity, showcasing dynamic filtering across different visuals.
 
-![Dashboard Demo](Images/dashboard-demo.gif)
+![Dashboard Demo](Images/dashboard_demo.gif)
 
 ---
 
